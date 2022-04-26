@@ -6,8 +6,8 @@
 
 ### Presentation
 
-* Slides: Image_Classification_Team 5.pptx
-* Presentation recording: Image_Classification_Team 5.mp4
+* See [Slides](https://github.com/whl0217/UMD_IS_Datathon/blob/main/Image_Classification_Team%205.mp4)
+* See [Presentation Recording](https://github.com/whl0217/UMD_IS_Datathon/blob/main/Image_Classification_Team%205.pptx)
 
 ### Source code
 
