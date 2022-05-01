@@ -1,4 +1,5 @@
 # UMD SMITH Information Systems Datathon 2022
+Smith IS Datathon is a business challenge in which teams of up to 4 students', proctored by Smith IS members, compete against each other to solve a set of programming problems in two weeks long time span.
 
 ## Problem Statement: Image Classification
 A picture is worth a thousand words, yet sometimes a few will do. We all rely on online images for knowledge sharing, learning, and understanding. Even the largest websites are missing visual content and metadata to pair with their images. Captions and “alt text” increase accessibility and enable better search. The majority of images on Hearst Database come from various categories and don't have any written context connected to the image. Open models could help anyone improve accessibility and learning for all.
