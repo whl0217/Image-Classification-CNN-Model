@@ -1,31 +1,27 @@
-# UMD SMITH Information Systems Datathon 2022
+# UMD Smith Information Systems Datathon 2022 + CNN Model
+
+## Tabel of Contents
+ 1. Introduction
+ 2. Problem Statement
+ 3. Data Processing and Modeling
+ 4. Presentation
+ 
+## Introduction
+![This is an image](https://i.imgur.com/SRVYtA1.png)<br>
 Smith IS Datathon is a business challenge in which teams of up to 4 students', proctored by Smith IS members, compete against each other to solve a set of programming problems in two weeks long time span.
 
-## Problem Statement: Image Classification
-A picture is worth a thousand words, yet sometimes a few will do. We all rely on online images for knowledge sharing, learning, and understanding. Even the largest websites are missing visual content and metadata to pair with their images. Captions and “alt text” increase accessibility and enable better search. The majority of images on Hearst Database come from various categories and don't have any written context connected to the image. Open models could help anyone improve accessibility and learning for all.
+## Problem Statement
+Image Classification
+* A picture is worth a thousand words, yet sometimes a few will do. We all rely on online images for knowledge sharing, learning, and understanding. The majority of images on Hearst Database come from various categories and do not have any written context connected to the image. In this competition, we will build a model that automatically retrieves the text closest to an image. Specifically, we will train a model to associate given images with tags.
 
-Current solutions rely on simple methods based on translations or page interlinks, which have limited coverage. Even the most advanced computer vision image captioning isn't suitable for images with complex semantics.
+## Data Processing and Modeling
+EDA + Data Pre-Processing + Modeling
+* See [CNN Model](https://github.com/whl0217/UMD_IS_Datathon/blob/main/Image_Classification_Team%205.ipynb)
 
-In this competition, you’ll build a model that automatically retrieves the text closest to an image. Specifically, you'll train your model to associate given images with article titles or complex captions. The best models will account for the semantic granularity of Hearst images.
-
-If successful, you'll be contributing to the accessibility of one of the largest databases from Hearst. The users will be able to more easily understand, search, and describe media at scale. As a result, you’ll contribute to an open model to improve learning for all.
-
-## Getting Started
-
-### Presentation
-
+## Presentation
 * See [Slides](https://github.com/whl0217/UMD_IS_Datathon/blob/main/Image_Classification_Team%205.pptx)
-* See [Presentation Recording](https://github.com/whl0217/UMD_IS_Datathon/blob/main/Image_Classification_Team%205.mp4)
 
-### Source code
-
-* See [Image Classifier](https://github.com/whl0217/UMD_IS_Datathon/blob/main/Image_Classification_Team%205.ipynb)
-
-## Authors
-
-* Wang-Han Li <br>
-wang-han.li@marylandsmith.umd.edu
- 
+### Authors
+* Wang-Han Li, whl0217@umd.edu<br>
 * Chung-Hao Lee <br>
-
 * Fabienne Yang <br>
